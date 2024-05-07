@@ -1,0 +1,26 @@
+[
+   {
+      "userId":"e4fa9a65-692b-4ecc-bff9-502f5480d555",
+      "campaign":"6fg7e8",
+      "eventTimestamp":"2023-07-11T09:08:19.994Z",
+      "action":"MESSAGE_DELIVERED"
+   },
+   {
+      "userId":"e4fa9a65-692b-4ecc-bff9-502f5480d555",
+      "campaign":"6fg7e8",
+      "eventTimestamp":"2023-07-13T17:18:00.101Z",
+      "action":"MESSAGE_OPENED"
+   },
+   {
+      "userId":"e4fa9a65-692b-4ecc-bff9-502f5480d555",
+      "campaign":"6fg7e8",
+      "eventTimestamp":"2023-07-16T12:00:00.002Z",
+      "action":"DELIVERY_FAILED"
+   },
+   {
+      "userId":"e4fa9a65-692b-4ecc-bff9-502f5480d555",
+      "campaign":"6fg7e8",
+      "eventTimestamp":"2023-07-16T13:00:00.001Z",
+      "action":"MESSAGE_DELIVERED"
+   }
+]
