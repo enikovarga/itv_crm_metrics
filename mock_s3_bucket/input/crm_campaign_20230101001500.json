@@ -1,0 +1,45 @@
+[{
+   "id":"6fg7e8",
+   "details":{
+      "name":"summer_romance_binge",
+      "schedule":[
+         "2023-07-21",
+         "2023-07-31"
+      ]
+   },
+   "steps":[
+      {
+         "templateId":"f0993"
+      },
+      {
+         "templateId":"857a8"
+      },
+      {
+         "templateId":"36b43"
+      },
+      {
+         "templateId":"62335"
+      }
+   ]
+},
+{
+   "id":"cb571",
+   "details":{
+      "name":"win_back",
+      "schedule":[
+         "2023-07-01",
+         "2023-07-25"
+      ]
+   },
+   "steps":[
+      {
+         "templateId":"f0993"
+      },
+      {
+         "templateId":"857a8"
+      },
+      {
+         "templateId":"62335"
+      }
+   ]
+}]
